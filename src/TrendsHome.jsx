@@ -2,7 +2,7 @@ import React, {/*useState, */}  from 'react';
 //import PropTypes from 'prop-types';
 import { makeStyles } from '@material-ui/core/styles';
 import { mockData } from './data/MockData';
-import ChartWrapper from './charts/ChartWrapperForClassChart';
+import ChartWrapper from './charts/ClassChartWrapperViewbox';
 
 const useStyles = makeStyles(theme => ({
 
